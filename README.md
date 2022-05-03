@@ -1,10 +1,10 @@
 # MyCalculator 📱 💻 :1234:
 
 - For this app I used HTML5, CSS3, Vanilla JavaScript and in a responsive way.
-- Link to open the App: https://lucastaborda99.github.io/
+- Link to open the App: https://lucastaborda99.github.io/MyCalculator/
 ---
 - Para este aplicativo usei HTML5, CSS3, Vanilla JavaScript e de forma responsiva.
-- Link para abrir o App: https://lucastaborda99.github.io/
+- Link para abrir o App: https://lucastaborda99.github.io/MyCalculator/
 ---
  Demo
 - Desktop:
